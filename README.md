@@ -1,6 +1,4 @@
-Certainly! Here's a description you can use for the GitHub README:
 
----
 
 # TripAdvisor Hotel Reviews Sentiment Analysis
 
@@ -50,4 +48,3 @@ Feel free to explore, modify, and adapt the code for your own sentiment analysis
 
 ---
 
-Adjust the instructions and details as needed based on your preferences and specific features of your project.
